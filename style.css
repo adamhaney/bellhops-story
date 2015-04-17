@@ -1,0 +1,80 @@
+*{
+    font-family: "Helvetica";
+}
+header{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+center{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+ul{
+    padding: 0;
+}
+
+li{
+    list-style-type:none;
+    font-size:2em;
+}
+
+.left h1{
+    text-align:left;
+}
+
+.left div{
+    width:100%;
+    text-align:left
+}
+
+.right h1{
+    text-align:right;
+}
+
+.right div{
+    width:100%;
+    text-align:right;
+}
+
+#intro{
+    background-image: url('img/bh-script.png');
+}
+
+#who-am-i{
+    background-image: url('img/adam.png');
+}
+
+#what{
+    background-image: url('img/homepage-pic.png');
+}
+
+#residential-moves{
+    background-image: url('img/bag.png');
+}
+
+#commercial{
+    background-image: url('img/commercial.png');
+}
+
+#sleeping-guys{
+    background-image: url('img/vla.png');
+}
+
+#auburn{
+    background-image: url('img/auburn.png');
+}
+
+#early-growth{
+    background-image: url('img/nation.png');
+}
+
+#rapid-expansion{
+    background-image: url('img/tanks.png');
+}
+
+#help{
+    background-image: url('img/bike.png');
+}
+
+#end{
+    background-image: url('img/get-some.png');
+}
